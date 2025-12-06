@@ -1,7 +1,6 @@
 *.csv
 *.bin
 *.zip
-*.md
 mlruns/
 *.log
 *.png
