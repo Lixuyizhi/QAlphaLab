@@ -1,0 +1,11 @@
+*.csv
+*.bin
+*.zip
+*.md
+mlruns/
+*.log
+*.png
+*.pdf
+.idea/
+scripts/
+.qlib/
